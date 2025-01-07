@@ -160,3 +160,27 @@ cython_debug/
 #.idea/
 
 output/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Icon must be unique
+Icon
+
+# macOS specific files
+.AppleDesktop/
+
+# Time Machine files
+.Trashes
+.VolumeIcon.icns
+
+# Mac-specific app files
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
