@@ -34,7 +34,7 @@ python demo.py
 
 ## 其他
 
-该项目源自MindSpore竞赛，原仓库地址为：https://openi.pcl.ac.cn/CarlCypress/fitness_evaluation，以下为相关荣誉。
+该项目源自MindSpore竞赛，原仓库地址为： https://openi.pcl.ac.cn/CarlCypress/fitness_evaluation ，以下为相关荣誉。
 
 ![Certificate](./doc/Certificate.png)
 
